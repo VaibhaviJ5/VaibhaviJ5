@@ -2,7 +2,8 @@
 - 👀 I’m interested in software development, data science, and open-source contributions.
 🌱 I’m currently learning full stack and cybersecurity.
 💞️ I’m looking to collaborate on innovative projects in the field of AI and data analytics.
-📫 How to reach me: Email | LinkedIn
+📫 How to reach me: vaibhavijayanth25@gmail.com
+
 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
